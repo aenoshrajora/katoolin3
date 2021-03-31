@@ -10,10 +10,11 @@ This software is based on python3
 
 # Installation
 1. sudo su
-2. git clone https://github.com/aenoshrajora/katoolin3.git && cp katoolin/katoolin.py /usr/bin/katoolin
-3. chmod +x /usr/bin/katoolin
-4. sudo apt install python-is-python3
-5. sudo katoolin
+2. git clone https://github.com/aenoshrajora/katoolin3.git 
+3. sudo cp katoolin/katoolin.py /usr/bin/katoolin
+4. chmod +x /usr/bin/katoolin
+5. sudo apt install python-is-python3
+6. sudo katoolin
 
 
 
