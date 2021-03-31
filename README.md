@@ -12,7 +12,8 @@ This software is based on python3
 1. sudo su
 2. git clone https://github.com/aenoshrajora/katoolin3.git && cp katoolin/katoolin.py /usr/bin/katoolin
 3. chmod +x /usr/bin/katoolin
-4. sudo katoolin
-   
+4. sudo apt install python-is-python3
+5. sudo katoolin
+
 
 
